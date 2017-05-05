@@ -35,6 +35,7 @@ crucial that we don't need to think about curating blessed sets of
 packages that we can cache as a single snapshot.
 
 
+* [Bootstrapping Mafia](doc/bootstrapping.md).
 * [Using Mafia For Your Own Projects](doc/using-mafia.md).
 * [Mafia Command Reference](doc/command-reference.md).
 
